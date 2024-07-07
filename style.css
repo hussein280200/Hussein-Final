@@ -8,11 +8,6 @@
    font-family: "Roboto", sans-serif;
    list-style: none;
 }
-:root{
-   --color1:#ff0000;
-   --color2:hwb(9 24% 2% / 0.522);
-}
-
 header{
    position: fixed;
    top: 0;
